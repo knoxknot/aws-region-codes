@@ -29,5 +29,7 @@
 | 24  | TBD             | Cape Town                  | Soon
 | 25  | TBD             | Hong Kong SAR              | Soon
 | 26  | TBD             | Milan                      | Soon
+| 27  | TBD             | Cyprus/Israel/Estonia      | Prediction
+| 28  | TBD             | exUSSR                     | Prediction
  
 https://aws.amazon.com/about-aws/global-infrastructure/
