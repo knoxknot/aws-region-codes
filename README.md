@@ -1,4 +1,4 @@
-# AWS Regions and Availability Zones codes
+# AWS Regions Codes
 
 |N#   | AWS Region Code | AWS Region Name            | Year of Launch 
 |:---:|-----------------|----------------------------|:--------------:
