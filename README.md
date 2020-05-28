@@ -23,10 +23,10 @@
 | 19  | cn-northwest-1  | China (Ningxia)            | 2017
 | 20  | us-gov-east-1   | GovCloud (US-East)         | 2018
 | 21  | us-gov-west-1   | GovCloud (US-West)         | 2011
+| 22  | af-south-1      | Africa (Cape Town)         | 2020
 |     | --------------- | -------------------------- |------------
-| 22  | TBD             | Asia Pacific (Jakarta)     | Soon
-| 23  | TBD             | Bahrain                    | Soon
-| 24  | TBD             | Cape Town                  | Soon
+| 23  | TBD             | Asia Pacific (Jakarta)     | Soon
+| 24  | TBD             | Bahrain                    | Soon
 | 25  | TBD             | Hong Kong SAR              | Soon
 | 26  | TBD             | Milan                      | Soon
 | 27  | TBD             | Cyprus/Israel/Estonia      | Prediction
